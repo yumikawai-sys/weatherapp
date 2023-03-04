@@ -1,0 +1,24 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shin-sibainu/nodejs-weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shin-sibainu/nodejs-weather-app/issues"
+  },
+  "homepage": "https://github.com/Shin-sibainu/nodejs-weather-app#readme"
+}

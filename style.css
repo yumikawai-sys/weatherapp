@@ -1,0 +1,14 @@
+#weatherData
+{
+    display: flexbox;
+    flex-direction:row-reverse;
+    align-items: center;
+    justify-content: space-between;
+}
+.maincreen
+{
+    display: flexbox;
+    flex-direction: column;
+    width: auto;
+    margin: 40px 600px 0 600px;
+}
